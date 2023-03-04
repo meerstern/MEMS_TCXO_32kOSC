@@ -1,9 +1,9 @@
-# RTC向け温度補償型MEMS発振器
-MEMS TCXO 32.768k Oscillator for RTC
+# 32.768kHz温度補償型MEMS発振器
+MEMS TCXO 32.768kHz Oscillator for RTC
 
 ## 概要 
   * SiTime製温度補償型32.768kHzMEMS発振器のブレイクアウト基板です 
-  * [SIT1552AC-JE-DCC-32.768D][1]を2.54mmピッチに変換しています  
+  * [SIT1552AC-JE-DCC-32.768][1]を2.54mmピッチに変換しています  
   * 温度補償により±5ppmの高精度を実現しています
   * RTCの水晶発振子を置き換えることで経時の時刻ずれを低減することが可能です  
   * 一般的な20ppmの水晶発振子で1年間10分前後のずれを数分程度まで低減させることが可能です  
