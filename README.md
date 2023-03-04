@@ -19,7 +19,8 @@ MEMS TCXO 32.768kHz Oscillator for RTC
   * RTCで使用する際は水晶発振子と異なり、バックアップ時も電池等からの電源供給が必要です  
   * 出荷前に全数のクロック出力を確認しています  
   
-
+<img src="https://raw.githubusercontent.com/meerstern/MEMS_TCXO_32kOSC/main/IMG/img1.jpg" width="360">
+<img src="https://raw.githubusercontent.com/meerstern/MEMS_TCXO_32kOSC/main/IMG/img2.JPG" width="360">
 
   MIT Lisense
   
